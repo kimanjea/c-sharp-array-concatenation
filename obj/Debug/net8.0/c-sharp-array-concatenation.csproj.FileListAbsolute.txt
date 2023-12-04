@@ -1,0 +1,15 @@
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\bin\Debug\net8.0\c-sharp-array-concatenation.exe
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\bin\Debug\net8.0\c-sharp-array-concatenation.deps.json
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\bin\Debug\net8.0\c-sharp-array-concatenation.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\bin\Debug\net8.0\c-sharp-array-concatenation.dll
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\bin\Debug\net8.0\c-sharp-array-concatenation.pdb
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\c-sharp-array-concatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\c-sharp-array-concatenation.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\c-sharp-array-concatenation.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\c-sharp-array-concatenation.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\c-sharp-array-concatenation.sourcelink.json
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\c-sharp-array-concatenation.dll
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\refint\c-sharp-array-concatenation.dll
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\c-sharp-array-concatenation.pdb
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\c-sharp-array-concatenation.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\c-sharp-array-concatenation\obj\Debug\net8.0\ref\c-sharp-array-concatenation.dll
